@@ -172,6 +172,7 @@ Presença e "digitando..." ficam em uma tabela efêmera com expiração, fora da
 - Autenticação OIDC com JWT validado pelo Convex, sem provedor proprietário obrigatório.
 - Renderização com glow: medido bem mais leve que wgpu.
 - eframe fixado na 0.36 porque `egui-phosphor` (ícones) ainda não suporta a 0.37.
+- Licença: GPL-3.0.
 - MVP só de texto; voz na fase 3, em módulo opcional.
 - O roadmap tem 5 fases e 4 portões: a fase seguinte só começa quando o critério do portão é atingido. As fases não têm datas.
 
@@ -180,7 +181,6 @@ Presença e "digitando..." ficam em uma tabela efêmera com expiração, fora da
 - [ ] Como cumprir a meta de RAM: reduzir o consumo, ou rever a meta considerando o driver de vídeo
 - [ ] Provedor de auth da instância oficial e o padrão para self-host
 - [ ] SFU recomendado para self-host
-- [ ] Licença: AGPL (protege contra forks fechados hospedados) ou MIT (adoção mais fácil)
 - [ ] Detalhe das fases e critérios dos portões do roadmap (ainda não registrados neste repositório)
 - [ ] Convenção de commits
 - [ ] Acessibilidade: o `accesskit` está desligado no cliente para economizar peso; reavaliar antes da v0.1

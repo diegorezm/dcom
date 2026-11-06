@@ -41,4 +41,4 @@ Os detalhes técnicos estão no [AGENTS.md](AGENTS.md).
 
 ## Licença
 
-Ainda não definida.
+[GPL-3.0](LICENSE).

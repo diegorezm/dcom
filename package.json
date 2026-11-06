@@ -1,0 +1,15 @@
+{
+  "name": "dcom-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "convex dev",
+    "lint": "tsc --noEmit -p convex"
+  },
+  "dependencies": {
+    "convex": "^1.49.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  }
+}
